@@ -12,7 +12,7 @@ body {
     align-items: center;
     min-height: 100vh;
     background-image: url(images/bg.jpg);
-    background-size: 400px;
+    background-size: 800px;
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -29,11 +29,11 @@ body {
 
 .container .card {
     position: relative;
-    width: 220px;
-    height: 300px;
+    width: 375px;
+    height: 510px;
     margin: 30px;
     box-shadow: none;
-    border-radius: 15px;
+    border-radius: 20px;
     background: transparent;
     overflow: hidden;
 }
@@ -52,8 +52,8 @@ body {
 }
 
 .card {
-    width: 300px;
-    height: 400px;
+    width: 350px;
+    height: 600px;
     perspective: 1000px;
     cursor: pointer;
 }
