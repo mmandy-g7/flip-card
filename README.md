@@ -1,2 +1,2 @@
 # flip-card
-FLIP CARD
+I created a flip card animation on JavaScript
